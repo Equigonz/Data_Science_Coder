@@ -1,10 +1,10 @@
 Mi trabajo trata sobre el analisis de los jugadores del juego FIFA 21, contiene 18944 filas y 106 columnas.
 
-Hare analisis descriptivos basicos sobre la edad de los jugadores, su altura, su peso y nacionalidad.
+Hare analisis descriptivos basicos sobre la edad de los jugadores, su altura, su peso , nacionalidad y valoraciones por puesto en el campo de juego.
 
-Entiendo que podria evaluar mas variables como la relacion entre Edad y Valoracion o el impacto de la Nacionalidad en el Valor de Mercado.
+Entiendo que podria evaluar mas variables como la relacion entre Edad y Valoracion o el impacto de su altura en los diferentes puestos
 
-Mi objetivo seria poder aproximarme al valor de mercado de un jugador proximo a ingresar la juego teniendo en cuenta las variables antes mencionadas.
+Mi objetivo seria poder aproximarme a una valoracion esperado con el ingreso de nuevos jugadores al juego. En concreto con su edad dependiente su puesto.
 
 
 
